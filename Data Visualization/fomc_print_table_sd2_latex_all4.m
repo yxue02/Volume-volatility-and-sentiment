@@ -1,4 +1,5 @@
 function fomc_print_table_sd2_latex_all4(results,VariableList,senti_type, params)
+% Acknowledgement: Part of the codes are modified from Dr. Jia Li's codes. 
 % Number of cross-sectional variables
 title_c = params.title_c;
 label_c = params.label_c;
